@@ -44,7 +44,7 @@ class BinarySearch {
 					return $arKeyVal[$middle][1];
 				}
 				if($left > $right){
-					return -1;
+					return 'undef';
 				}
 			}
 		}
