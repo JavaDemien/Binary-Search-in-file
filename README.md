@@ -1,5 +1,7 @@
 # Test OOP Binary Search by Demien
-При обновлении страницы создается файл с ключами и занчениями keydata.txt (Class KeyGenerator)
+Бинарный поиск в файле (Class BinarySearch)
+При обновлении страницы создается файл с ключами и значениями keydata.txt (Class KeyGenerator)
+Обработка формы производится через AJAX-запрос
 
 
 
