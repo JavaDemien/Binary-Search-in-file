@@ -70,7 +70,7 @@ $(document).ready(function(){
     $('.validate-form').on('submit',function(){
         var check = true;
 
-        if($(name).val().trim() == ''){
+        if($(key).val().trim() == ''){
             showValidate(key);
             check=false;
         }
